@@ -21,3 +21,8 @@ Install my-project with npm
 <p align="center">
   <img width="300" style="margin:15px" src="https://ik.imagekit.io/hbzknb1hm/calci.gif?updatedAt=1697288573948" alt="App icon on mobile screen">
 </p>
+
+## Authors
+
+- [@rajesh604](https://github.com/rajesh604)
+
