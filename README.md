@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="100" height="100" style="margin:15px" src="https://ik.imagekit.io/hbzknb1hm/calculator.png?updatedAt=1697289503233" alt="calculator">
+</p>
+
 # Calculator
 
 A basic calculator to perform arithmatic operations
@@ -25,4 +29,12 @@ Install my-project with npm
 ## Authors
 
 - [@rajesh604](https://github.com/rajesh604)
+
+## Contributing
+
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
+
+Please adhere to this project's `code of conduct`.
 
