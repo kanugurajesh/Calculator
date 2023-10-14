@@ -13,8 +13,11 @@ Install my-project with npm
 
 ## Screenshots
 <p align="center">
-  <img width="200" style="margin:15px" src="https://ik.imagekit.io/hbzknb1hm/calcu.jpg?updatedAt=1697286508048" alt="App icon on mobile screen">
+  <img width="300" style="margin:15px" src="https://ik.imagekit.io/hbzknb1hm/calcu.jpg?updatedAt=1697286508048" alt="App icon on mobile screen">
 </p>
 
 ## Demo
-![Calculator Demo](https://ik.imagekit.io/hbzknb1hm/calci.gif?updatedAt=1697288573948)
+
+<p align="center">
+  <img width="300" style="margin:15px" src="https://ik.imagekit.io/hbzknb1hm/calci.gif?updatedAt=1697288573948" alt="App icon on mobile screen">
+</p>
