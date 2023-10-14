@@ -11,7 +11,7 @@
         android:id="@+id/tvResult"
         android:layout_width="match_parent"
         android:layout_height="300dp"
-        android:text="0"
+        android:text=""
         android:background="@color/lightGrey"
         android:padding="10dp"
         android:textSize="48sp"
@@ -33,7 +33,7 @@
             android:layout_weight="1"
             android:onClick="onDigit"
             android:text="7"
-            android:textSize="24sp"
+            android:textSize="20sp"
             android:layout_margin="5dp"
             />
 
@@ -44,7 +44,7 @@
             android:layout_weight="1"
             android:onClick="onDigit"
             android:text="8"
-            android:textSize="24sp"
+            android:textSize="20sp"
             android:layout_margin="5dp"
             />
 
@@ -55,7 +55,7 @@
             android:layout_weight="1"
             android:onClick="onDigit"
             android:text="9"
-            android:textSize="24sp"
+            android:textSize="20sp"
             android:layout_margin="5dp"
             />
 
@@ -66,7 +66,7 @@
             android:layout_weight="1"
             android:onClick="onOperator"
             android:text="/"
-            android:textSize="24sp"
+            android:textSize="20sp"
             android:layout_margin="5dp"
             />
 
@@ -87,7 +87,7 @@
             android:layout_weight="1"
             android:onClick="onDigit"
             android:text="4"
-            android:textSize="24sp"
+            android:textSize="20sp"
             android:layout_margin="5dp"
             />
 
@@ -109,7 +109,7 @@
             android:layout_weight="1"
             android:onClick="onDigit"
             android:text="6"
-            android:textSize="24sp"
+            android:textSize="20sp"
             android:layout_margin="5dp"
             />
 
@@ -120,7 +120,7 @@
             android:layout_weight="1"
             android:onClick="onOperator"
             android:text="*"
-            android:textSize="24sp"
+            android:textSize="20sp"
             android:layout_margin="5dp"
             />
 
@@ -141,7 +141,7 @@
             android:layout_weight="1"
             android:onClick="onDigit"
             android:text="1"
-            android:textSize="24sp"
+            android:textSize="20sp"
             android:layout_margin="5dp"
             />
 
@@ -152,7 +152,7 @@
             android:layout_weight="1"
             android:onClick="onDigit"
             android:text="2"
-            android:textSize="24sp"
+            android:textSize="20sp"
             android:layout_margin="5dp"
             />
 
@@ -163,7 +163,7 @@
             android:layout_weight="1"
             android:onClick="onDigit"
             android:text="3"
-            android:textSize="24sp"
+            android:textSize="20sp"
             android:layout_margin="5dp"
             />
 
@@ -174,7 +174,7 @@
             android:layout_weight="1"
             android:onClick="onOperator"
             android:text="-"
-            android:textSize="24sp"
+            android:textSize="20sp"
             android:layout_margin="5dp"
             />
 
@@ -195,7 +195,7 @@
             android:layout_weight="1"
             android:text="."
             android:onClick="onDecimalPoint"
-            android:textSize="24sp"
+            android:textSize="20sp"
             android:layout_margin="5dp"
             />
 
@@ -206,7 +206,7 @@
             android:layout_weight="1"
             android:text="0"
             android:onClick="onDigit"
-            android:textSize="24sp"
+            android:textSize="20sp"
             android:layout_margin="5dp"
             />
 
@@ -217,7 +217,7 @@
             android:layout_weight="2"
             android:text="CLR"
             android:onClick="onClear"
-            android:textSize="24sp"
+            android:textSize="20sp"
             android:layout_margin="5dp"
             />
 
@@ -228,7 +228,7 @@
             android:layout_weight="1"
             android:text="+"
             android:onClick="onOperator"
-            android:textSize="24sp"
+            android:textSize="20sp"
             android:layout_margin="5dp"
             />
 
@@ -246,12 +246,21 @@
             android:id="@+id/btnEqual"
             android:layout_width="0dp"
             android:layout_height="match_parent"
-            android:layout_weight="1"
+            android:layout_weight="3"
             android:onClick="onEqual"
             android:text="="
-            android:textSize="24sp"
+            android:textSize="20sp"
             android:layout_margin="5dp"
             />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="0dp"
+            android:padding="30dp"
+            android:layout_height="match_parent"
+            android:onClick="removeElement"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/baseline_backspace_24" />
     </LinearLayout>
 
 </LinearLayout>
