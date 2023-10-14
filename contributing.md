@@ -1,4 +1,4 @@
-## Contributing to [Project Name]
+## Contributing to Calculator
 
 We welcome contributions from all members of the community. By contributing to [Project Name], you help us make it better for everyone.
 
@@ -29,4 +29,4 @@ We welcome all kinds of contributions, including:
 * Add tests for your changes.
 * Be patient. It may take some time for your pull request to be reviewed.
 
-**Thank you for contributing to [Project Name]!**
+**Thank you for contributing to Calculator!**
