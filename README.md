@@ -1,3 +1,5 @@
+#### ⭐ star this repo if you like it
+
 <p align="center">
   <img width="150" height="150" style="margin:15px" src="https://ik.imagekit.io/hbzknb1hm/calculator.png?updatedAt=1697289503233" alt="calculator">
 </p>
